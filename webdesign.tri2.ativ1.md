@@ -4,10 +4,12 @@ Este projeto tem como objetivo criar uma interface web utilizando HTML e CSS par
 
 - `index.html` - Página de login para acesso ao sistema (aluno ou professor).
 - Professores
+  - `professor-cadastro.html` - Página de `perfil` do professor, para atualização de informações. 
   - `professor-dashboard.html` - Página principal para o professor, onde ele pode acessar as funcionalidades de cadastro de disciplinas, alunos e notas.
   - `professor-cadastro-disciplina.html` - Página para o professor cadastrar disciplinas e associar alunos.
   - `professor-cadastro-notas.html` - Página para o professor cadastrar notas dos alunos e ocorrências diárias.
 - Alunos
+  - `aluno-cadastro.html` - Página de `perfil` do aluno, para atualização de informações. 
   - `aluno-dashboard.html` - Página principal para o aluno, onde ele pode acessar suas notas e ocorrências diárias.
   - `aluno-consulta-notas.html` - Página para o aluno consultar suas notas e ocorrências diárias.
 
