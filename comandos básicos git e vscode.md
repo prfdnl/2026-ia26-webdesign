@@ -1,4 +1,16 @@
-# Criar Token no GitHub (classico)
+# O que é um repositório git?
+
+Um repositório git é um local onde o código-fonte de um projeto é armazenado e gerenciado usando o sistema de controle de versão Git. Ele permite que os desenvolvedores acompanhem as mudanças feitas no código ao longo do tempo, colaborem com outros desenvolvedores e mantenham um histórico completo do desenvolvimento do projeto. O repositório pode ser hospedado localmente em uma máquina ou remotamente em plataformas como GitHub, GitLab ou Bitbucket, facilitando a colaboração e o compartilhamento de código entre equipes de desenvolvimento.
+
+# O que é o GitHub?
+
+O GitHub é uma plataforma de hospedagem de código-fonte que utiliza o sistema de controle de versão Git. Ele permite que os desenvolvedores armazenem, compartilhem e colaborem em projetos de software. O GitHub oferece recursos como repositórios públicos e privados, controle de acesso, integração contínua, gerenciamento de problemas (issues), revisão de código (pull requests) e muito mais. É amplamente utilizado por desenvolvedores para colaborar em projetos de código aberto e privado, facilitando a comunicação e o desenvolvimento em equipe.
+
+# O que é uma chave ghp?
+
+Uma chave ghp (GitHub Personal Access Token) é um token de acesso pessoal gerado no GitHub que permite autenticar e autorizar ações em nome do usuário. Ele é usado para acessar a API do GitHub, clonar repositórios privados, fazer push e pull em repositórios remotos, entre outras operações que exigem autenticação. A chave ghp é uma alternativa segura à senha tradicional, pois pode ser configurada com permissões específicas e revogada a qualquer momento, proporcionando maior controle sobre o acesso às suas contas e repositórios no GitHub.
+
+# Criar Token (ghp) no GitHub (classico)
 
 1. Acesse o GitHub e faça login na sua conta.
 2. No canto superior direito, clique na sua foto de perfil e selecione "Settings" (Configurações).
